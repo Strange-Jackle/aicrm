@@ -3,7 +3,6 @@ odoo_api_demo.py was not optimised by me so take a look for yourself
 
 # Odoo CRM Chatbot Integration with Google Gemini 2.5-flash
 ![Odoo CRM Chatbot](https://img.shields.io/badge/Odoo-CRM-blue)
-![Google Gemini](https://img.shields.io/badge/Google-Gemini-2.5--flash)
 ![Python](https://img.shields.io/badge/Python-3.x-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.13.0-red)
 
